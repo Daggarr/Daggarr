@@ -10,4 +10,4 @@ For now working on simple web applications like:
 * [Person Register](https://github.com/Daggarr/PersonRegister) - Person register application, user can add person to a database and can search for a person by identity number.
 - - - -
 ### Linkedin
-My [linkedin](https://www.linkedin.com/in/dagnija-viktorova-767773124/) profile.
+My [linkedin](https://www.linkedin.com/in/dagnija-viktorova) profile.
